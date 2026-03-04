@@ -45,9 +45,10 @@ Each project focuses on a specific analytical question and highlights different 
 ### 1. Long-Term Care Inspection Analysis (Ontario)
 **Focus Areas**
 - Exploratory Data Analysis
+- Comparative Analysis
 - Descriptive Statistics
-- SQL Aggregations
 - Incident Rate Calculations
+- Pivot tables for data aggregation and use of built in excel functions 
 
 **Dataset**
 Ontario Open Data Portal – Long-Term Care Home Inspections
@@ -58,7 +59,7 @@ Ontario Open Data Portal – Long-Term Care Home Inspections
 - What trends exist in inspections over time?
 
 **Skills Practiced**
-- SQL grouping and aggregation
+- Pivot table grouping and aggregation
 - Rate calculations
 - Trend identification
 
