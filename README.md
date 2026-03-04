@@ -94,3 +94,41 @@ Ontario Health Wait Time Data
 ---
 
 ## Repository Structure
+
+---
+
+## Statistical Topics Practiced
+
+Across the projects in this repository, the following statistical concepts are applied:
+
+- Descriptive statistics
+- Rates and percentages
+- Trend analysis
+- Correlation
+- Hypothesis testing
+- Confidence intervals
+
+These techniques are used to explore patterns in public sector datasets and support evidence-based insights.
+
+---
+
+## Learning Approach
+
+Each project follows a similar analytical workflow:
+
+1. Data exploration
+2. Data cleaning
+3. Exploratory Data Analysis (EDA)
+4. Statistical analysis
+5. Visualization and dashboards
+6. Interpretation of findings
+
+The goal is not only to produce results, but to clearly document the reasoning behind the analysis.
+
+---
+
+## Notes
+
+This portfolio is an ongoing learning project. As new skills are developed, additional projects and analyses will be added.
+
+All datasets are sourced from publicly available repositories and are used strictly for educational purposes.
